@@ -34,7 +34,7 @@ namespace WFAHamburgerci
                 var file = File.Create(MenuYolu);
                 file.Close();
             }
-        }
+        } 
 
         public static void IlkMenuDegerleriniEkle()
         {
