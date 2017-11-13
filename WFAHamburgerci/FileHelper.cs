@@ -47,7 +47,7 @@ namespace WFAHamburgerci
                                                             new MenuSchemaMenu() { MenuAdi = "Chicken Royal", Fiyati = 17M },
                                                             new MenuSchemaMenu() { MenuAdi = "King Chicken", Fiyati = 11M }
             };
-
+             
             menuler.Menu = menuList.ToArray();
 
             //XElement menuler = new XElement("Menuler",
