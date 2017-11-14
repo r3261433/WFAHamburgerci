@@ -23,6 +23,7 @@ namespace WFAHamburgerci
                 Directory.CreateDirectory(KlasorYolu);
         }
 
+
         #region Menüler
 
         public static void MenuYarat()
